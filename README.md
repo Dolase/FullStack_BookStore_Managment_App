@@ -1,1 +1,1 @@
-# FullStack_BookStore_Managment_App_
+# FullStack_BookStore_Managment_App_SpringBoot_React
